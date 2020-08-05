@@ -2,4 +2,4 @@
 
 Hi Humens,
 
-SHay is in the house, computer vision master , be aware. 
+Shay is in the house, computer vision master , be aware. 
